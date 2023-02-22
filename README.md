@@ -9,5 +9,5 @@ Hi, good day to you :)
 * [Voucher](./guide/voucher.md)
 
 ## Links
-* [CoPlus Official Site](https://coplus.my)
-* [CoPlus App](https://app.coplus.my)
+* [Official Site](https://coplus.my)
+* [App](https://app.coplus.my)
