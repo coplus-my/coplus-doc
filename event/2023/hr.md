@@ -8,4 +8,5 @@ The role of HR department in an organisation.
 
 ## Links
 * [Home](../../README.md)
+* [Events](../index.md)
 * [UnikHR](https://unikhr.com)

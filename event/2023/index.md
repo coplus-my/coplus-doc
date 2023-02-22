@@ -8,3 +8,4 @@
 
 ## Links
 * [Home](../../README.md)
+* [Events](../index.md)

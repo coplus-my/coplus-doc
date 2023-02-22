@@ -22,5 +22,6 @@ Best practice.
 
 ## Links
 * [Home](../../README.md)
+* [Events](../index.md)
 * [Vritco](https://vritco.com)
 * [KITA](https://kitaclan.com)
