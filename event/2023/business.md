@@ -7,5 +7,5 @@ A community of like-minded business professionals seeking to expand their busine
 ---
 
 ## Links
-* [Home](../../../README.md)
+* [Home](../../README.md)
 * [CoMatrix](https://comatrix.my)
